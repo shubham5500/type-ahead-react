@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.item {
+  cursor: pointer;
+  padding: 6px;
+}
+.item:hover {
+  background-color: lightblue;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
